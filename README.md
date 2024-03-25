@@ -23,3 +23,5 @@ Run the airbnb_analysis.ipynb file in your own IDE (eg. VScode, Jupyter Notebook
 
 ## Summary
 You will see at the end of the analysis, the average price in Boston is almost 50% higher than in Seattle. Also, November and December are the busiest months shared between two cities, resulting in higher prices compared to other months. 
+
+To see the post, please click this link https://medium.com/@vchendrawan/a-trip-with-data-analytics-python-e4d3244f2e55
