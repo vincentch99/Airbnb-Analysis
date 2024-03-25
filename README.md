@@ -1,5 +1,5 @@
 # Airbnb-Analysis
-Not sure when to go for your next trip to Seattle/Boston? look no further because this tool will tell you what is the best time to visit Seattle and Boston.
+Not sure when to go for your next trip to Seattle/Boston? look no further because this tool will tell you what is the best time to visit Seattle and Boston. The code will show you how to get the average price of the year, average price per month, and the busiest time, for each city. 
 
 ## Libraries
 Use the package manager pip to install the required libraries.
@@ -15,6 +15,10 @@ or use Docker container to build the package.
 
 ## Usage
 Run the airbnb_analysis.ipynb file in your own IDE (eg. VScode, Jupyter Notebook)
+- VScode
+  - make sure to install the required libraries
+- Jupyter Notebook
+  - Copy the .ipynb file and the two folders to your notebook and then run the file.
 
 ## Contributing
 
