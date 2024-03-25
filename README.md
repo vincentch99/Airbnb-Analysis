@@ -7,7 +7,6 @@ Use the package manager pip to install the required libraries.
 ```bash
 pip install pandas
 pip install matplotlib
-pip install seaborn
 ```
 
 or use Docker container to build the package.
@@ -15,7 +14,7 @@ or use Docker container to build the package.
 ```
 
 ## Usage
-Run the airbnb_analysis.ipynb file in jupyter notebooks and follow each step.
+Run the airbnb_analysis.ipynb file in your own IDE (eg. VScode, Jupyter Notebook)
 
 ## Contributing
 
